@@ -1,0 +1,15 @@
+{
+  "name": "desafio_calculadora",
+  "version": "1.0.0",
+  "description": "Calculadora simples criada em NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "author": "Sidcley",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
